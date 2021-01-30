@@ -1,0 +1,7 @@
+sudo ./main gusa 10.1.1.1 7000
+
+
+telnet 10.1.1.1 7000
+
+
+go build main.go
